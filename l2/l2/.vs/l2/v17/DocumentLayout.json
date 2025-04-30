@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\git\\\u0421pp\\l2\\l2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F39C2AB-3CCE-44EA-AA9E-3C8C74AC6BF6}|l2\\l2.vcxproj|I:\\git\\\u0421pp\\l2\\l2\\l2\\l2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F39C2AB-3CCE-44EA-AA9E-3C8C74AC6BF6}|l2\\l2.vcxproj|solutionrelative:l2\\l2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "l2.cpp",
+              "DocumentMoniker": "I:\\git\\\u0421pp\\l2\\l2\\l2\\l2.cpp",
+              "RelativeDocumentMoniker": "l2\\l2.cpp",
+              "ToolTip": "I:\\git\\\u0421pp\\l2\\l2\\l2\\l2.cpp",
+              "RelativeToolTip": "l2\\l2.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T16:59:56.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
