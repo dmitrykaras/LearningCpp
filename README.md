@@ -1,85 +1,90 @@
-# 📘 Изучение С++
 
-**Этот репозиторий содержит информацию о кратком курсе С++. Наглядно показана работа с ООП, а именно работа с классами, шаблонами, наследованием и др.
+# 📘 Learning C++
 
----
-
-## 📂 Структура проекта
-
-/l1/ #Основы С++ и switch-case
-/l2/ #Работа со сторками и их обработка
-/l3/ #Создание структур и работа с файлами
-/l4/ #Работа с классами
-/l5/ #Наследование, производные и базовые классы
-/l6/ #Шаблонные классы
-/l7/ #Классы, шаблонные класы и массивы
-
->Кажая папка содержит текстовое задание, исходный код и пример запуска
+**This repository contains materials from a short C++ course.**  
+It clearly demonstrates working with OOP, specifically classes, templates, inheritance, and more.
 
 ---
 
-## ⚙️ Технологии
+## 📂 Project Structure
 
-- Язык: **C++ 19.43.34809 для x86** 
-- Среда: **Visual Studio**
-- Операционная система: **Windows**
+```
+/l1/  # C++ basics and switch-case
+/l2/  # Working with strings and processing
+/l3/  # Creating structs and working with files
+/l4/  # Working with classes
+/l5/  # Inheritance, base and derived classes
+/l6/  # Template classes
+/l7/  # Classes, template classes, and arrays
+```
+
+> Each folder contains a task description, source code, and a sample run.
 
 ---
 
-## 🚀 Как запустить
+## ⚙️ Technologies
 
-1. Склонируйте репозиторий:
+- Language: **C++ 19.43.34809 for x86**
+- IDE: **Visual Studio**
+- Operating System: **Windows**
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/dmitrykaras/LearningCpp
 ```
 
-2. Перейдите в нужную директорию работой:
+2. Navigate to the desired lab folder:
 
 ```bash
-cd путь_к_папке
+cd path_to_folder
 ```
 
-3. Скомпилируйте и запустите:
+3. Compile and run:
 
 ```bash
 g++ main.cpp -o l3
 ./l3
 ```
 
-> Или откройте проект в Visual Studio/Code::Blocks
+> Or open the project in Visual Studio / Code::Blocks
 
 ---
 
-## 📚 Темы, охваченные в работах
+## 📚 Topics Covered
 
-- Основы синтаксиса C++
-- Управляющие конструкции
-- Функции и рекурсия
-- Массивы и указатели
-- Классы и объектно-ориентированное программирование
-- Работа с файлами
-- Шаблоны и перегрузка операторов
-- Исключения
-- Динамическая память
-
----
-
-## 🧠 Цель проекта
-
-Этот проект служит как учебный архив моих практических навыков по C++  
-и может быть полезен другим студентам как справочник и пример кода.
+- Basics of C++ syntax
+- Control structures
+- Functions and recursion
+- Arrays and pointers
+- Classes and object-oriented programming
+- File handling
+- Templates and operator overloading
+- Exceptions
+- Dynamic memory
 
 ---
 
-## 🖼️ Скриншоты
-![1](preview/1.gif)
-![2](preview/2.gif)
-![3](preview/1.png)
-![4](preview/1.png)
+## 🧠 Project Purpose
+
+This project serves as a learning archive of my hands-on experience with C++.  
+It may also be useful to other students as a reference and code example.
 
 ---
 
-## 📄 Лицензия
+## 🖼️ Screenshots
 
-Свободно используйте материалы из этого репозитория — проект распространяется под лицензией [MIT](LICENSE).
+![1](preview/1.gif)  
+![2](preview/2.gif)  
+![3](preview/1.png)  
+![4](preview/2.png)
+
+---
+
+## 📄 License
+
+Feel free to use the materials from this repository — the project is licensed under the [MIT License](LICENSE).
